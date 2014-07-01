@@ -1,4 +1,4 @@
-#Conjure App
+#Conjure Script
 
 A simple tool for batch processing images from a LG-P999 phone into a single timelapse video
 
